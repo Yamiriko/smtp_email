@@ -12,3 +12,4 @@
 <p>Untuk Settingan Emailnya berada pada <b>smtpnya/pengirim_email.php</b></p>
 <p>Pada settingan ini terdapat alamat email dan password email</p>
 <p>Pada settingan ini juga bisa mengirimkan dari berbagai server email seperti yahoo (Yang saya gunakan pada settingan tersebut), Gmail, maupun server email buatan sendiri.</p>
+<p>Untuk setting email pada yahoo maupun google agar bisa diakses oleh PHPMailer, sementara ini googling saja dahulu bro,, hehehe... </p>
